@@ -1,0 +1,119 @@
+h1{
+  background-color: orange;
+  text-align: center;
+    text-decoration-line: underline;
+
+}
+
+.Image img {
+  width: 100px;
+  height:100px ;
+  padding-left: 600px;
+}
+
+
+.section1 {
+  background-color: red;
+  border: dashed;
+  border-width: 8px;
+  color: brown;
+  border-radius: 5px;
+  text-decoration: black;
+}
+
+.section1 h2{
+   color:white;
+   margin-left: 20px;
+   margin-right:20px;
+     text-decoration-line: underline;
+
+   }
+
+.section1 p{
+  color:white;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+.section2{
+  background-color:green;
+  border: dashed;
+  border-width: 5px;
+  
+
+}
+
+.section2 h2{
+  color:white;
+  margin-left:20px;
+  margin-right:20px;
+    text-decoration-line: underline;
+
+}
+
+.section2 ul{
+  color: white;
+}
+
+.section3{
+  background-color: blue;
+  border: dashed;
+  border-width: 8px;
+  color: white;
+  border-radius: 5px;
+  
+}
+
+.section3 h2{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration-line: underline;
+}
+
+.section4{
+   background-color:brown;
+  border: dashed;
+  border-width: 8px;
+  color: white;
+  border-radius: 5px;
+}
+
+.section4 h2{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration-line: underline;
+}
+
+.section5{
+   background-color:black;
+  border: dashed;
+  border-width: 8px;
+  color: white;
+  border-radius: 5px; 
+}
+
+.section5 h2{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration-line: underline;
+}
+
+.section6{
+   background-color:violet;
+  border: dashed;
+  border-width: 8px;
+  color: white;
+  border-radius: 5px;
+}
+
+.section6 h2{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration-line: underline;
+}
+
+.section6 p{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
